@@ -1,0 +1,10 @@
+{
+  transfers {
+    blockNumber
+    blockTimestamp
+    from
+    id
+    to
+    tokenId
+  }
+}
